@@ -4,7 +4,7 @@ def printme( str ):
     return
 
 printme("i'm sumi")
-printme("im 22 years old")
+printme("im 42 years old")
 
 def change( mylist ):
     mylist.append([1,2,3])
